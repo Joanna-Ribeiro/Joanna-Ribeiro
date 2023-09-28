@@ -24,23 +24,12 @@ Hello, I'm Joanna Ribeiro, a passionate computer technician. Enthusiastic about 
 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Joanna-Ribeiro&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Joanna-Ribeiro&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joanna-Ribeiro&show_icons=true" />
-
-  
-</picture>
-
-<picture>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joanna-Ribeiro&layout=compact&hide_border=true&title_color=FF1493&text_color=00FFFF&bg_color=0d1117" />
-</picture>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
