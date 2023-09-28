@@ -1,7 +1,7 @@
-Hello, I'm Joanna Ribeiro, a passionate computer technician. Enthusiastic about back-end development and infrastructure. I'm seeking opportunities to work in innovative and renowned companies. Fascinated by developing creative solutions and taking on new challenges. I'm an intern at Sipub.Tech in back-end development and deep learning, gaining experience in system project development. I'm fascinated by the interaction of automation with life and how flexibility and dynamism are presented in technology.
+Hello, I'm Joanna Ribeiro, a passionate computer technician. Enthusiastic about back-end development and infrastructure. I'm seeking opportunities to work in innovative and renowned companies. Fascinated by developing creative solutions and taking on new challenges. I'm an intern at Sipub.Tech in back-end development and machine learning, gaining experience in system project development. I'm fascinated by the interaction of automation with life and how flexibility and dynamism are presented in technology.
 
 
-"Know all the theories, master all the techniques, but when touching a human soul, be just another human soul."
+      "Know all the theories, master all the techniques, but when touching a human soul, be just another human soul."
 
 
 
