@@ -25,8 +25,8 @@ Hello, I'm Joanna Ribeiro, a passionate computer technician. Enthusiastic about 
 
 <p align="center">
 <a href="https://github.com/azizovrafael">
-  <img height="166px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joanna-Ribeiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="166px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joanna-Ribeiro&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="95px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joanna-Ribeiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="95px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joanna-Ribeiro&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
