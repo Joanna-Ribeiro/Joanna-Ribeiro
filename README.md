@@ -92,13 +92,7 @@ Hello, I'm Joanna Ribeiro, a passionate computer technician. Enthusiastic about 
 <a href = "mailto:joannac581@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
- </div>
 
- <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <br/>  
