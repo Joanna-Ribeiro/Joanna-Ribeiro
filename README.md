@@ -14,9 +14,7 @@ Hello, I'm Joanna Ribeiro, a passionate computer technician. Enthusiastic about 
 **Talking about Education/Skills:**
 
 - 🎓 Graduated in 2022 as a Computer Technician.
-- 🇺🇸 Undergraduate Student in Software Engineering - Jala University
 -  I'm from Brazil
--  Love programming and AI
 -  I like to learn something new
 -  I dream of becoming a developer for international companies
 -  I am currently learning Java.
